@@ -5,4 +5,6 @@ Console.WriteLine("2023/10/11");
 Console.WriteLine("2023/11/7　友達の誕生日");
 Console.WriteLine("player生成");
 Console.WriteLine("プルしてくだい");
-Console.WriteLine("プルしません");
+Console.WriteLine("プルします");
+
+
